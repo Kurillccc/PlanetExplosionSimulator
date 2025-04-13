@@ -24,15 +24,10 @@
 - C++
 - OpenGL (GLUT, GLU)
 - stb_image (для загрузки текстур)
-- MacOS (поддержка Linux и Windows с соответствующими библиотеками)
 
 ## 📸 Скрины
-<img width="945" alt="image" src="https://github.com/user-attachments/assets/c39d6b25-9004-467e-808c-5d0ead3b175c" />
-<img width="977" alt="image" src="https://github.com/user-attachments/assets/7cf0be27-f72c-4783-b7e0-ded516b78809" />
-<img width="947" alt="image" src="https://github.com/user-attachments/assets/9c5d11a7-d2c1-4230-ab57-bc7fb57a848d" />
-<img width="949" alt="image" src="https://github.com/user-attachments/assets/ba15abc3-d12a-463f-9a52-12b032b4745e" />
-
-
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/c39d6b25-9004-467e-808c-5d0ead3b175c" /> <img width="977" alt="image" src="https://github.com/user-attachments/assets/7cf0be27-f72c-4783-b7e0-ded516b78809" />
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/9c5d11a7-d2c1-4230-ab57-bc7fb57a848d" /> <img width="949" alt="image" src="https://github.com/user-attachments/assets/ba15abc3-d12a-463f-9a52-12b032b4745e" />
 
 ## ⚡ Инструкция по запуску
 
